@@ -9,8 +9,8 @@
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <br>
 <h3>Desktop</h3>
-<img src="https://github.com/FernandoLacerda90/wide-coverage-responsivel/blob/master/img/desktop%20I.png?raw=true" width="700px"/>
+<img src="https://github.com/FernandoLacerda90/wide-coverage-responsivel/blob/master/img/desktop%20I.png?raw=true" width="1000px"/>
 <br>
 <br>
 <h3>Mobile</h3>
-<img src="https://github.com/FernandoLacerda90/easy-shopping-responsivel/blob/master/assets/mobile.png?raw=true" width="300px"/>
+<img src="https://github.com/FernandoLacerda90/wide-coverage-responsivel/blob/master/img/mobile%20I.png?raw=true" width="300px"/>
